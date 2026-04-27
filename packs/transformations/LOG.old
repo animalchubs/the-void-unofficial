@@ -1,8 +1,5 @@
-2026/01/13-08:28:15.766 51ac Recovering log #1865
-2026/01/13-08:28:15.771 51ac Delete type=0 #1865
-2026/01/13-08:28:15.771 51ac Delete type=3 #1864
-2026/01/13-09:32:19.351 4a14 Level-0 table #1869: started
-2026/01/13-09:32:19.351 4a14 Level-0 table #1869: 0 bytes OK
-2026/01/13-09:32:19.352 4a14 Delete type=0 #1867
-2026/01/13-09:32:19.356 4a14 Manual compaction at level-0 from '!folders!BLtBDuJAJeoOwkNa' @ 72057594037927935 : 1 .. '!items!xG7RQ1lkYsvDrSyc' @ 0 : 0; will stop at (end)
-2026/01/13-09:32:19.356 4a14 Manual compaction at level-1 from '!folders!BLtBDuJAJeoOwkNa' @ 72057594037927935 : 1 .. '!items!xG7RQ1lkYsvDrSyc' @ 0 : 0; will stop at (end)
+2026/04/27-19:52:29.351 3614 Log #1872: 0 ops saved to Table #1873 OK
+2026/04/27-19:52:29.353 3614 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\transformations/001872.log: OK
+2026/04/27-19:52:29.354 3614 Table #299: 18 entries OK
+2026/04/27-19:52:29.359 3614 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\transformations/MANIFEST-001870: OK
+2026/04/27-19:52:29.368 3614 **** Repaired leveldb C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\transformations; recovered 1 files; 7306 bytes. Some data may have been lost. ****

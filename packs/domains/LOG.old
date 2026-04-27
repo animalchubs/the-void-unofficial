@@ -1,15 +1,5 @@
-2026/01/13-08:28:15.734 51b0 Recovering log #1993
-2026/01/13-08:28:15.739 51b0 Delete type=0 #1993
-2026/01/13-08:28:15.740 51b0 Delete type=3 #1992
-2026/01/13-09:32:19.353 4a14 Level-0 table #1997: started
-2026/01/13-09:32:19.354 4a14 Level-0 table #1997: 30142 bytes OK
-2026/01/13-09:32:19.356 4a14 Delete type=0 #1995
-2026/01/13-09:32:19.356 4a14 Manual compaction at level-0 from '!folders!0gKpTjNck6vuqhBh' @ 72057594037927935 : 1 .. '!items.effects!h9v21QczI9ppDOd0.sNBuI2xIZAI4RgZy' @ 0 : 0; will stop at (end)
-2026/01/13-09:32:19.356 4a14 Manual compaction at level-1 from '!folders!0gKpTjNck6vuqhBh' @ 72057594037927935 : 1 .. '!items.effects!h9v21QczI9ppDOd0.sNBuI2xIZAI4RgZy' @ 0 : 0; will stop at '!items!iqSPSDyXHT6dXT8A' @ 479 : 1
-2026/01/13-09:32:19.356 4a14 Compacting 1@1 + 1@2 files
-2026/01/13-09:32:19.359 4a14 Generated table #1998@1: 65 keys, 36167 bytes
-2026/01/13-09:32:19.359 4a14 Compacted 1@1 + 1@2 files => 36167 bytes
-2026/01/13-09:32:19.360 4a14 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/13-09:32:19.360 4a14 Delete type=2 #763
-2026/01/13-09:32:19.360 4a14 Delete type=2 #1997
-2026/01/13-09:32:19.366 4a14 Manual compaction at level-1 from '!items!iqSPSDyXHT6dXT8A' @ 479 : 1 .. '!items.effects!h9v21QczI9ppDOd0.sNBuI2xIZAI4RgZy' @ 0 : 0; will stop at (end)
+2026/04/27-19:52:29.314 a044 Log #2001: 0 ops saved to Table #2002 OK
+2026/04/27-19:52:29.314 a044 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\domains/002001.log: OK
+2026/04/27-19:52:29.315 a044 Table #1998: 65 entries OK
+2026/04/27-19:52:29.321 a044 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\domains/MANIFEST-001999: OK
+2026/04/27-19:52:29.330 a044 **** Repaired leveldb C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\domains; recovered 1 files; 36167 bytes. Some data may have been lost. ****

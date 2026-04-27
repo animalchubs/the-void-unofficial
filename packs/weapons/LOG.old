@@ -1,8 +1,6 @@
-2026/01/13-08:28:15.779 51b8 Recovering log #1680
-2026/01/13-08:28:15.783 51b8 Delete type=0 #1680
-2026/01/13-08:28:15.783 51b8 Delete type=3 #1679
-2026/01/13-09:32:19.360 4a14 Level-0 table #1684: started
-2026/01/13-09:32:19.360 4a14 Level-0 table #1684: 0 bytes OK
-2026/01/13-09:32:19.361 4a14 Delete type=0 #1682
-2026/01/13-09:32:19.366 4a14 Manual compaction at level-0 from '!items!8LzsXmE2aEgjDPRP' @ 72057594037927935 : 1 .. '!items!lHFiIpH2lrBBaT4o' @ 0 : 0; will stop at (end)
-2026/01/13-09:32:19.366 4a14 Manual compaction at level-1 from '!items!8LzsXmE2aEgjDPRP' @ 72057594037927935 : 1 .. '!items!lHFiIpH2lrBBaT4o' @ 0 : 0; will stop at (end)
+2026/04/27-19:52:29.390 5bc4 Log #1687: 0 ops saved to Table #1688 OK
+2026/04/27-19:52:29.391 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\weapons/001687.log: OK
+2026/04/27-19:52:29.391 5bc4 Table #55: 3 entries OK
+2026/04/27-19:52:29.391 5bc4 Table #574: 2 entries OK
+2026/04/27-19:52:29.397 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\weapons/MANIFEST-001685: OK
+2026/04/27-19:52:29.404 5bc4 **** Repaired leveldb C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\weapons; recovered 2 files; 6181 bytes. Some data may have been lost. ****
