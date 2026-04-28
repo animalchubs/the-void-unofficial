@@ -1,5 +1,7 @@
-2026/04/27-19:52:29.208 5bc4 Log #2019: 0 ops saved to Table #2020 OK
-2026/04/27-19:52:29.210 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\subclasses/002019.log: OK
-2026/04/27-19:52:29.211 5bc4 Table #936: 134 entries OK
-2026/04/27-19:52:29.219 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\subclasses/MANIFEST-002017: OK
-2026/04/27-19:52:29.226 5bc4 **** Repaired leveldb C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\subclasses; recovered 1 files; 59350 bytes. Some data may have been lost. ****
+2026/04/27-21:50:47.649 ef60 Recovering log #2048
+2026/04/27-21:50:47.660 ef60 Delete type=0 #2048
+2026/04/27-21:50:47.660 ef60 Delete type=3 #2046
+2026/04/27-22:04:26.592 f924 Level-0 table #2053: started
+2026/04/27-22:04:26.592 f924 Level-0 table #2053: 0 bytes OK
+2026/04/27-22:04:26.598 f924 Delete type=0 #2051
+2026/04/27-22:04:26.606 f924 Manual compaction at level-0 from '!folders!37B1HLu8gv8sSDNI' @ 72057594037927935 : 1 .. '!items.effects!ulURXMXGHT33vnD9.gUXFfQ0tIClq6lde' @ 0 : 0; will stop at (end)

@@ -1,5 +1,7 @@
-2026/04/27-19:52:29.458 5bc4 Log #1588: 0 ops saved to Table #1589 OK
-2026/04/27-19:52:29.460 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\adversaries--environments/001588.log: OK
-2026/04/27-19:52:29.461 5bc4 Table #1083: 116 entries OK
-2026/04/27-19:52:29.467 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\adversaries--environments/MANIFEST-001586: OK
-2026/04/27-19:52:29.474 5bc4 **** Repaired leveldb C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\adversaries--environments; recovered 1 files; 97146 bytes. Some data may have been lost. ****
+2026/04/27-21:50:47.761 caf8 Recovering log #1617
+2026/04/27-21:50:47.771 caf8 Delete type=0 #1617
+2026/04/27-21:50:47.773 caf8 Delete type=3 #1615
+2026/04/27-22:04:26.614 f924 Level-0 table #1622: started
+2026/04/27-22:04:26.614 f924 Level-0 table #1622: 0 bytes OK
+2026/04/27-22:04:26.619 f924 Delete type=0 #1620
+2026/04/27-22:04:26.633 f924 Manual compaction at level-0 from '!actors!0IWZIrFaZeDruAl7' @ 72057594037927935 : 1 .. '!folders!lltllvKCpD1MamXV' @ 0 : 0; will stop at (end)

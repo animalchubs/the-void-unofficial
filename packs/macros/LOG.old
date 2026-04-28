@@ -1,5 +1,7 @@
-2026/04/27-19:52:29.424 5bc4 Log #1679: 0 ops saved to Table #1680 OK
-2026/04/27-19:52:29.425 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\macros/001679.log: OK
-2026/04/27-19:52:29.425 5bc4 Table #1676: 1 entries OK
-2026/04/27-19:52:29.431 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\macros/MANIFEST-001677: OK
-2026/04/27-19:52:29.438 5bc4 **** Repaired leveldb C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\macros; recovered 1 files; 644 bytes. Some data may have been lost. ****
+2026/04/27-21:50:47.745 f684 Recovering log #1708
+2026/04/27-21:50:47.756 f684 Delete type=0 #1708
+2026/04/27-21:50:47.756 f684 Delete type=3 #1706
+2026/04/27-22:04:26.650 f924 Level-0 table #1713: started
+2026/04/27-22:04:26.650 f924 Level-0 table #1713: 0 bytes OK
+2026/04/27-22:04:26.654 f924 Delete type=0 #1711
+2026/04/27-22:04:26.654 f924 Manual compaction at level-0 from '!macros!dGt3g1M1CBZNSSYd' @ 72057594037927935 : 1 .. '!macros!dGt3g1M1CBZNSSYd' @ 0 : 0; will stop at (end)

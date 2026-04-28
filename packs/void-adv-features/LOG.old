@@ -1,5 +1,7 @@
-2026/04/27-19:52:29.495 5bc4 Log #514: 0 ops saved to Table #515 OK
-2026/04/27-19:52:29.497 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\void-adv-features/000514.log: OK
-2026/04/27-19:52:29.498 5bc4 Table #5: 98 entries OK
-2026/04/27-19:52:29.507 5bc4 Archiving C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\void-adv-features/MANIFEST-000512: OK
-2026/04/27-19:52:29.516 5bc4 **** Repaired leveldb C:\Users\playe\AppData\Local\FoundryVTT\Data\modules\the-void-unofficial\packs\void-adv-features; recovered 1 files; 51634 bytes. Some data may have been lost. ****
+2026/04/27-21:50:47.778 caf8 Recovering log #543
+2026/04/27-21:50:47.790 caf8 Delete type=0 #543
+2026/04/27-21:50:47.790 caf8 Delete type=3 #541
+2026/04/27-22:04:26.646 f924 Level-0 table #548: started
+2026/04/27-22:04:26.646 f924 Level-0 table #548: 0 bytes OK
+2026/04/27-22:04:26.650 f924 Delete type=0 #546
+2026/04/27-22:04:26.654 f924 Manual compaction at level-0 from '!folders!1U6nWmP9yamsU0jl' @ 72057594037927935 : 1 .. '!items.effects!mIAiUmuy1c7nWBlx.jVBdXomOerfUEf6k' @ 0 : 0; will stop at (end)
