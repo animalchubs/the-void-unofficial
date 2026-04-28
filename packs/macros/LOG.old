@@ -1,7 +1,7 @@
-2026/04/27-21:50:47.745 f684 Recovering log #1708
-2026/04/27-21:50:47.756 f684 Delete type=0 #1708
-2026/04/27-21:50:47.756 f684 Delete type=3 #1706
-2026/04/27-22:04:26.650 f924 Level-0 table #1713: started
-2026/04/27-22:04:26.650 f924 Level-0 table #1713: 0 bytes OK
-2026/04/27-22:04:26.654 f924 Delete type=0 #1711
-2026/04/27-22:04:26.654 f924 Manual compaction at level-0 from '!macros!dGt3g1M1CBZNSSYd' @ 72057594037927935 : 1 .. '!macros!dGt3g1M1CBZNSSYd' @ 0 : 0; will stop at (end)
+2026/04/27-22:30:21.695 f684 Recovering log #1716
+2026/04/27-22:30:21.708 f684 Delete type=0 #1716
+2026/04/27-22:30:21.708 f684 Delete type=3 #1714
+2026/04/28-14:46:24.232 f924 Level-0 table #1721: started
+2026/04/28-14:46:24.234 f924 Level-0 table #1721: 0 bytes OK
+2026/04/28-14:46:24.237 f924 Delete type=0 #1719
+2026/04/28-14:46:24.241 f924 Manual compaction at level-0 from '!macros!dGt3g1M1CBZNSSYd' @ 72057594037927935 : 1 .. '!macros!dGt3g1M1CBZNSSYd' @ 0 : 0; will stop at (end)
